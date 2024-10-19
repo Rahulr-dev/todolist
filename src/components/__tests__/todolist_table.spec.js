@@ -1,7 +1,6 @@
 import { mount } from '@vue/test-utils'
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import TodoListTable from '@/components/todolist_table.vue'
-// import { priority_list } from '../../constants/constants.js'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 import { Modal } from 'bootstrap'
 
