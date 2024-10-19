@@ -1,0 +1,9 @@
+.item-text {
+  width: 95%;
+}
+.item-icon {
+  width: 5%;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
